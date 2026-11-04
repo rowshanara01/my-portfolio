@@ -7,9 +7,9 @@ Personal portfolio website of **Rowshanara Akhter (Robia)**, a Full Stack Web De
 ![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel)
 
-🔗 **Live Site:** [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
 
-## 👋 About Me ##
+
+#### 👋 About Me ####
 
 I am a freelance Full Stack Web Developer who works remotely with clients to design, build and launch fast, reliable and user-friendly web applications. I combine solid web development skills with AI engineering to build smart, modern products, from clean front-end interfaces and secure back-end APIs to payment integrations and AI-powered features.
 
