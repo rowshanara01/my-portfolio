@@ -42,7 +42,7 @@ Add your AI skills here (for example LLM integration, prompt engineering, AI API
 **Tools**
 Git, GitHub, VS Code
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects ##
 
 | Project | Description | Tech Stack | Links |
 | ------- | ----------- | ---------- | ----- |
