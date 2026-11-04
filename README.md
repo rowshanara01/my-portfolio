@@ -22,7 +22,7 @@ I am a freelance Full Stack Web Developer who works remotely with clients to des
 - Contact section for client inquiries
 - Written in strict TypeScript for reliable, maintainable code
 
-## 🧰 Skills
+#### 🧰 Skills ####
 
 **Front-end**
 React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
