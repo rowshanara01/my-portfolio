@@ -76,7 +76,7 @@ your-repo-name/
 
 #### ⚙️ Run Locally ####
 
-### Prerequisites
+### Prerequisites ####
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended) and npm
 
