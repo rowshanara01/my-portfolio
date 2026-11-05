@@ -74,7 +74,7 @@ your-repo-name/
 └── README.md
 ```
 
-## ⚙️ Run Locally ##
+#### ⚙️ Run Locally ####
 
 ### Prerequisites
 
