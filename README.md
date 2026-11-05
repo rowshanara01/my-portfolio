@@ -50,7 +50,7 @@ Git, GitHub, VS Code
 | Project Two | Short description of the project | React.js, Node.js, MySQL | [Live](#) · [Code](#) |
 | Project Three | Short description of an AI project | Python, TypeScript, AI APIs | [Live](#) · [Code](#) |
 
-## 🛠️ Tech Stack of This Portfolio ##
+##  Tech Stack of This Portfolio ##
 
 - **React** – UI library
 - **TypeScript** – type-safe development
