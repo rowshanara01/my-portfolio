@@ -58,7 +58,7 @@ Git, GitHub, VS Code
 - **CSS / Tailwind CSS** – styling (keep the one you use)
 - **Vercel** – hosting and deployment
 
-#### 📁 Project Structure
+#### 📁 Project Structure #####
 
 ```
 your-repo-name/
