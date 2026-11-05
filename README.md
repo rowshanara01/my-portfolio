@@ -80,7 +80,7 @@ your-repo-name/
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended) and npm
 
-### Steps
+#### Steps ####
 
 1. Clone the repository
 
